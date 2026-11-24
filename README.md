@@ -1,6 +1,6 @@
 #<div align="center">
 
-# 🧠 Lógica de Programação
+🧠 Lógica de Programação
 
 **Meu espaço de base lógica em Python**
 Exercícios e práticas de raciocínio lógico na minha transição do Direito para o desenvolvimento back-end.
