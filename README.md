@@ -40,11 +40,11 @@ Consolidar a base de lógica de programação em **Python**, com foco em:
 
 ## 📁 Estrutura do repositório
 
+```text
 logica_programacao/
 ├── README.md
 ├── magica.py
 └── .gitignore
-
 ---
 
 ## 📝 Exercícios realizados
