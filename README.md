@@ -1,4 +1,4 @@
-<div align="center">
+#<div align="center">
 
 # 🧠 Lógica de Programação
 
@@ -45,7 +45,7 @@ logica_programacao/
 ├── README.md
 ├── magica.py
 └── .gitignore
----
+```
 
 ## 📝 Exercícios realizados
 
