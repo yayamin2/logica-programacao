@@ -1,0 +1,22 @@
+print ('Bem-vindo ao jogo de Mad Libs! Por favor, forneça as palavras solicitadas para criar uma história divertida.')
+substantivo = input ('Digite um nome: ')
+adjetivo = input ('Digite um adjetivo: ')
+verbo = input ('Digite um verbo: ')
+objeto = input ('Digite um objeto: ')
+profissao = input ('Digite uma profissão: ')
+adjetivo2 = input ('Digite outro adjetivo: ')
+numero = input ('Digite um número: ')
+animal = input ('Digite um animal: ')
+objeto2 = input ('Digite outro objeto: ')
+objeto3 = input ('Digite mais um objeto: ')
+
+
+print (' Titulo: A grande aventura no escritorio de tecnologia ')
+
+print()
+print("Um dia, o (a) " + substantivo + " estava trabalhando em um projeto super " + adjetivo + ". De repente, o computador começou a " + verbo + " sozinho!")
+print("Sem pensar duas vezes, o (a) " + substantivo + " pegou seu (sua) " + objeto + " e começou a digitar comandos como um (uma) verdadeiro(a) " + profissao + ".")
+print('"Preciso consertar isso antes que o sistema fique ' + adjetivo2 + '!" exclamou o ' + substantivo + '. Depois de ' + numero + ' tentativas, finalmente o computador respondeu: ')
+print('"O problema foi causado por um(a)' + animal + ' que estava no sistema!"')
+print('Com isso, o problema foi resolvido, e o(a) ' + substantivo + ' ganhou o prêmio de ' + objeto2 + ' mais inovador do ano.')
+print('Moral da história: sempre leve seu(sua) ' + objeto3 + ' para o escritório, porque nunca se sabe quando você vai precisar!')
